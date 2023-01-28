@@ -9,6 +9,7 @@ Também é necessário controlar quais profissionais de enfermaria estarão resp
 A internação, obviamente, é vinculada a um paciente - que pode se internar mais de uma vez no hospital - e a um único médico responsável.
 
 Realize os seguintes passos:
+
 • Faça a atualização do diagrama desenvolvido na Atividade 1 para que ele possa ser capaz de executar as novas instruções;
 • Crie um script SQL para a geração do banco de dados e para instruções de montagem de cada uma das entidades/tabelas presentes no diagrama completo. Também crie tabelas para relacionamentos quando necessário. Aplique colunas e chaves primárias e estrangeiras.
 
@@ -26,6 +27,7 @@ It is also necessary to control which nursing professionals will be responsible 
 Admission is obviously linked to a patient - who can be admitted to the hospital more than once - and to a single physician in charge.
 
 Perform the following steps:
+
 • Update the diagram developed in Activity 1 so that it can be able to execute the new instructions;
 • Create an SQL script to generate the database and assemble instructions for each of the entities/tables present in the complete diagram. Also create tables for relationships when necessary. Apply primary and foreign columns and keys.
 

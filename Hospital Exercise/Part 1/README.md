@@ -1,6 +1,7 @@
 # Instructions 👇🏼
 
-🇧🇷 Um pequeno hospital local busca desenvolver um novo sistema que atenda melhor as suas necessidades. Atualmente, parte da operação ainda se apoia em planilhas e arquivos antigos, mas espera-se que esses dados sejam transferidos para o novo sistema assim que ele estiver funcional. Neste momento, é necessário analisar com cuidado as necessidades desse cliente e sugerir uma estrutura de banco de dados adequada por meio de um Diagrama Entidade-Relacionamento.
+# 🇧🇷 
+Um pequeno hospital local busca desenvolver um novo sistema que atenda melhor as suas necessidades. Atualmente, parte da operação ainda se apoia em planilhas e arquivos antigos, mas espera-se que esses dados sejam transferidos para o novo sistema assim que ele estiver funcional. Neste momento, é necessário analisar com cuidado as necessidades desse cliente e sugerir uma estrutura de banco de dados adequada por meio de um Diagrama Entidade-Relacionamento.
 
 Analise a seguinte descrição e extraia dela os requisitos para o banco de dados:
 O hospital necessita de um sistema para sua área clínica que ajude a controlar consultas realizadas. Os médicos podem ser generalistas, especialistas ou residentes e têm seus dados pessoais cadastrados em planilhas digitais. Cada médico pode ter uma ou mais aspecialidades, que podem ser pediatria, clínica geral, gastroenterologia e dermatologia. Alguns registros antigos ainda estão em formulário de papel, mas será necessário incluir esses dados no novo sistema.
@@ -16,7 +17,8 @@ A partir desses requisitos, desenhe um Diagrama ER para esse projeto de banco de
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
-🇺🇸 A small local hospital is looking to develop a new system that better meets its needs. Currently, part of the operation still relies on old spreadsheets and files, but it is expected that this data will be transferred to the new system as soon as it is functional. At this point, it is necessary to carefully analyze the needs of this client and suggest a suitable database structure through an Entity-Relationship Diagram.
+# 🇺🇸 
+A small local hospital is looking to develop a new system that better meets its needs. Currently, part of the operation still relies on old spreadsheets and files, but it is expected that this data will be transferred to the new system as soon as it is functional. At this point, it is necessary to carefully analyze the needs of this client and suggest a suitable database structure through an Entity-Relationship Diagram.
 
 Analyze the following description and extract the requirements for the database from it:
 The hospital needs a system for its clinical area to help control consultations. Doctors can be general practitioners, specialists or residents and have their personal data registered in digital spreadsheets. Each doctor can have one or more specialties, which can be pediatrics, general practice, gastroenterology and dermatology. Some old records are still in paper form, but this data will need to be entered into the new system.

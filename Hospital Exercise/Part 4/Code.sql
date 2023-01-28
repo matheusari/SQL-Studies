@@ -875,7 +875,7 @@ INSERT INTO `hospital`.`tipo_quarto` (`id`, `descricao`, `valor_diaria`, `quarto
 INSERT INTO `hospital`.`tipo_quarto` (`id`, `descricao`, `valor_diaria`, `quarto_id`) VALUES ('3', 'Enfermaria com 35 metros quadrados.', '30', '3');
 
 
--- 1. Todos os dados e o valor médio das consultas do ano de 2020 e das que foram feitas sob convênio.
+--  Todos os dados e o valor médio das consultas do ano de 2020.
 SELECT * FROM consulta WHERE data between 
 TO_DATE('01/01/2020','DD/MM/YYYY') and 
 TO_DATE('31/12/2020' ,'DD/MM/YYYY');
@@ -892,7 +892,7 @@ SELECT instrucoes FROM receita WHERE instrucoes is NOT NULL;
 SELECT * FROM consulta WHERE valor = (SELECT MIN(valor) FROM consulta WHERE convenio is NULL);
 SELECT * FROM consulta WHERE valor = (SELECT MAX(valor) FROM consulta WHERE convenio is NULL);
 
---  Todos os dados das internações em seus respectivos quartos, calculando o total da internação a partir do valor de diária do quarto e o número de dias entre a entrada e a alta.
+--  Todos os dados das internações em seus respectivos quarto.
 SELECT * FROM internacao WHERE quarto = '202';
 SELECT * FROM internacao WHERE quarto = '14';
 SELECT * FROM internacao WHERE quarto = '213';
@@ -900,7 +900,7 @@ SELECT * FROM internacao WHERE quarto = '213';
 --  Data, procedimento e número de quarto de internações em quartos do tipo “apartamento”.
 SELECT data_entrada, data_alta, procedimento, quarto FROM internacao WHERE quarto = 'apartamento';
 
--- Os nomes dos médicos, seus CRMs e a quantidade de consultas que cada um realizou.
+-- Os nomes dos médicos e seus CRMs.
 SELECT nome, crm FROM medico
 
 SET SQL_MODE=@OLD_SQL_MODE;

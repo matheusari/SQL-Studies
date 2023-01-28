@@ -1,6 +1,7 @@
-# Instructions 👇🏼
+# Instruções / Instructions 👇🏼
 
-🇧🇷 Uma vez que o banco estiver bem estruturado, é possível realizar testes, simulando relatórios ou telas que o sistema possa necessitar. A tarefa consiste em criar consultas que levem aos resultados esperados.
+# 🇧🇷 
+Uma vez que o banco estiver bem estruturado, é possível realizar testes, simulando relatórios ou telas que o sistema possa necessitar. A tarefa consiste em criar consultas que levem aos resultados esperados.
 
 Crie um script e nele inclua consultas que retornem:
 
@@ -15,9 +16,10 @@ Crie um script e nele inclua consultas que retornem:
 9. Os nomes dos médicos, seus CRMs e a quantidade de consultas que cada um realizou.
 10. Os nomes, CREs e número de internações de enfermeiros que participaram de mais de uma internação.
 
------------------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------------
 
-🇺🇸 Once the database is well structured, it is possible to carry out tests, simulating reports or screens that the system may need. The task is to create queries that lead to the expected results.
+# 🇺🇸 
+Once the database is well structured, it is possible to carry out tests, simulating reports or screens that the system may need. The task is to create queries that lead to the expected results.
 
 Create a script and include queries that return:
 

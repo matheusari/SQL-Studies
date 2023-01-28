@@ -13,7 +13,7 @@ Crie scripts de povoamento das tabelas desenvolvidas na Atividade 2. Observe as 
 4. Inclua ao menos quatro convênios médicos, associe ao menos cinco pacientes e cinco consultas;
 5. Registre ao menos sete internações. Pelo menos dois pacientes devem ter se internado mais de uma vez. Ao menos três quartos devem ser cadastrados. As internações devem ter ocorrido entre 01/01/2015 e 01/01/2022;
 6. Considerando que "a princípio o hospital trabalha com apartamentos, quartos duplos e enfermaria", inclua ao menos esses três tipos com valores diferentes;
-7. Inclua dados de dez profissionais de enfermaria. Associe cada interação a ao menos dois enfermeiros;
+7. Inclua dados de dez profissionais de enfermaria;
 8. Os dados de tipo de quarto, convênio e especialidade são essenciais para a operação do sistema e, portanto, devem ser povoados assim que o sistema for instalado.
 
 Crie um script para o povoamento básico (os itens essenciais para a implantação do sistema) e outro script para o povoamento geral de dados. Aplique dados o mais próximos possível da realidade.
@@ -45,7 +45,7 @@ Create populating scripts for the tables developed in Activity 2. Observe the fo
 4. Include at least four medical plans, associate at least five patients and five appointments;
 5. Record at least seven admissions. At least two patients must have been admitted more than once. At least three quarters must be registered. Admissions must have occurred between 01/01/2015 and 01/01/2022;
 6. Considering that "at first the hospital works with apartments, double rooms and a ward", include at least these three types with different values;
-7. Include data from ten nursing professionals. Associate each interaction with at least two nurses;
+7. Include data from ten nursing professionals;
 8. Room type, insurance, and specialty data are critical to system operation and therefore must be populated as soon as the system is installed.
 
 Create a script for basic population (the essentials for system deployment) and another script for general data population. Apply data as close to reality as possible.

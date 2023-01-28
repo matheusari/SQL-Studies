@@ -1,33 +1,57 @@
 # Instructions 👇🏼
 
-🇧🇷 Após a primeira versão do projeto de banco de dados para o sistema hospitalar, notou-se a necessidade de expansão das funcionalidades, incluindo alguns requisitos essenciais a essa versão do software. As funcionalidades em questão são para o controle na intemação de pacientes. Será necessário expandir o Modelo ER desenvolvido e montar o banco de dados, criando as tabelas para o início dos testes.
+🇧🇷 Com o banco de dados para o sistema hospitalar completamente montado, é necessário incluir dados para realizar os devidos testes e validar sua viabilidade quanto a sistema. Nesta etapa, também é importante realizar a separação de alguns scripts iniciais para o banco, com os dados que serão necessários a um povoamento inicial do sistema
 
-No hospital, as internações tem sido registradas por meio de formulários eletrônicos que gravam os dados em arquivos. Para cada internação, são anotadas a data de entrada, a data prevista de alta e a data efetiva de alta, além da descrição textual dos procedimentos a serem realizados. As internações precisam ser vinculadas a quartos, com a numeração e o tipo. Cada tipo de quarto tem sua descrição e o seu valor diário (a princípio, o hospital trabalha com apartamentos, quartos duplos e enfermaria).
+# Parte 1:
+Crie scripts de povoamento das tabelas desenvolvidas na Atividade 2. Observe as seguintes regras:
 
-Também é necessário controlar quais profissionais de enfermaria estarão responsáveis para acompanhar o paciente durante sua internação. Para cada enfermeiro(a), é necessário nome, CPF e registro no conselho de enfermagem (CRE).
+• Inclua ao menos dez médicos de ao menos sete especialidades (considere a afirmação de que "entre as especialidades há pediatria, clínica geral, gastroenterologia e dermatologia");
+• Inclua ao menos 15 pacientes;
+• Registre 20 consultas de diferentes pacientes e diferentes médicos (alguns pacientes realizam mais que uma consulta). As consultas devem ter ocorrido entre 01/01/2015 e 01/01/2022. Ao menos dez consultas devem ter receituário com dois ou mais medicamentos:
+• Inclua ao menos quatro convênios médicos, associe ao menos cinco pacientes e cinco consultas;
+• Registre ao menos sete internações. Pelo menos dois pacientes devem ter se internado mais de uma vez. Ao menos três quartos devem ser cadastrados. As internações devem ter ocorrido entre 01/01/2015 e 01/01/2022;
+• Considerando que "a princípio o hospital trabalha com apartamentos, quartos duplos e enfermaria", inclua ao menos esses três tipos com valores diferentes;
+• Inclua dados de dez profissionais de enfermaria. Associe cada interação a ao menos dois enfermeiros;
+• Os dados de tipo de quarto, convênio e especialidade são essenciais para a operação do sistema e, portanto, devem ser povoados assim que o sistema for instalado.
 
-A internação, obviamente, é vinculada a um paciente - que pode se internar mais de uma vez no hospital - e a um único médico responsável.
+Crie um script para o povoamento básico (os itens essenciais para a implantação do sistema) e outro script para o povoamento geral de dados. Aplique dados o mais próximos possível da realidade.
 
-Realize os seguintes passos:
-• Faça a atualização do diagrama desenvolvido na Atividade 1 para que ele possa ser capaz de executar as novas instruções;
-• Crie um script SQL para a geração do banco de dados e para instruções de montagem de cada uma das entidades/tabelas presentes no diagrama completo. Também crie tabelas para relacionamentos quando necessário. Aplique colunas e chaves primárias e estrangeiras.
+O script pronto deve estar estruturado de tal maneira que sua execução total - sem alterações - seja bem-sucedida.
 
-Use ferramentas, como ERPlus, Lucidchart, draw.io (via web) e MySQL Workbench, ou mesmo um editor de imagens para o diagrama. Utilize o MySQL
-Workbench para montar os scripts SQL.
+# Parte 2
+Realize algumas alterações nas tabelas e nos dados usando comandos de atualização e exclusão:
+
+• Crie uma coluna "em atividade" para os médicos, indicando se ele ainda está atuando no hospital ou não. Crie script para atualizar ao menos dois médicos como inativos e os demais em atividade.
+• Crie script para atualizar as datas de alta nas internações em quartos de enfermaria para três dias após a entrada.
+• Crie script para excluir o último convênio cadastrado e todas as consultas realizadas com esse convênio.
+
+Crie um novo script com essas operações em SQL solicitadas.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
-🇺🇸 After the first version of the database project for the hospital system, it was noticed the need to expand the functionalities, including some essential requirements for this version of the software. The functionalities in question are for controlling the hospitalization of patients. It will be necessary to expand the developed ER Model and assemble the database, creating the tables to start the tests.
+🇺🇸 With the database for the hospital system completely assembled, it is necessary to include data to carry out the necessary tests and validate its viability as a system. At this stage, it is also important to perform the separation of some initial scripts for the database, with the data that will be necessary for an initial population of the system
 
-At the hospital, admissions have been registered using electronic forms that record data in files. For each hospitalization, the date of entry, the expected date of discharge and the effective date of discharge are noted, in addition to the textual description of the procedures to be performed. Admissions need to be linked to rooms, with numbering and type. Each type of room has its description and its daily rate (in principle, the hospital works with apartments, double rooms and a ward).
+# Part 1:
+Create populating scripts for the tables developed in Activity 2. Observe the following rules:
 
-It is also necessary to control which nursing professionals will be responsible for accompanying the patient during his hospitalization. For each nurse, a name, CPF and registration with the nursing council (CRE) are required.
+• Include at least ten physicians from at least seven specialties (consider the statement that "among the specialties there are pediatrics, general practice, gastroenterology and dermatology");
+• Include at least 15 patients;
+• Register 20 appointments from different patients and different doctors (some patients have more than one appointment). Consultations must have taken place between 01/01/2015 and 01/01/2022. At least ten consultations must have a prescription with two or more medications:
+• Include at least four medical plans, associate at least five patients and five appointments;
+• Record at least seven admissions. At least two patients must have been admitted more than once. At least three quarters must be registered. Admissions must have occurred between 01/01/2015 and 01/01/2022;
+• Considering that "at first the hospital works with apartments, double rooms and a ward", include at least these three types with different values;
+• Include data from ten nursing professionals. Associate each interaction with at least two nurses;
+• Room type, insurance, and specialty data are critical to system operation and therefore must be populated as soon as the system is installed.
 
-Admission is obviously linked to a patient - who can be admitted to the hospital more than once - and to a single physician in charge.
+Create a script for basic population (the essentials for system deployment) and another script for general data population. Apply data as close to reality as possible.
 
-Perform the following steps:
-• Update the diagram developed in Activity 1 so that it can be able to execute the new instructions;
-• Create an SQL script to generate the database and assemble instructions for each of the entities/tables present in the complete diagram. Also create tables for relationships when necessary. Apply primary and foreign columns and keys.
+The finished script must be structured in such a way that its total execution - without changes - is successful.
 
-Use tools such as ERPlus, Lucidchart, draw.io (via the web) and MySQL Workbench, or even an image editor for the diagram. use mysql
-Workbench to assemble the SQL scripts.
+# Part 2
+Perform some changes to tables and data using update and delete commands:
+
+• Create an "in activity" column for doctors, indicating whether he is still working in the hospital or not. Create a script to update at least two doctors as inactive and the others as active.
+• Create script to update discharge dates on ward room admissions to three days after entry.
+• Create a script to delete the last registered health insurance and all consultations carried out with that health insurance.
+
+Create a new script with these requested SQL operations.

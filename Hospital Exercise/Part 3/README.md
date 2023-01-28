@@ -3,7 +3,8 @@
 # 🇧🇷 
 Com o banco de dados para o sistema hospitalar completamente montado, é necessário incluir dados para realizar os devidos testes e validar sua viabilidade quanto a sistema. Nesta etapa, também é importante realizar a separação de alguns scripts iniciais para o banco, com os dados que serão necessários a um povoamento inicial do sistema
 
-- Parte 1
+Parte 1:
+
 Crie scripts de povoamento das tabelas desenvolvidas na Atividade 2. Observe as seguintes regras:
 
 1. Inclua ao menos dez médicos de ao menos sete especialidades (considere a afirmação de que "entre as especialidades há pediatria, clínica geral, gastroenterologia e dermatologia");
@@ -19,7 +20,8 @@ Crie um script para o povoamento básico (os itens essenciais para a implantaç�
 
 O script pronto deve estar estruturado de tal maneira que sua execução total - sem alterações - seja bem-sucedida.
 
- - Parte 2
+Parte 2:
+
 Realize algumas alterações nas tabelas e nos dados usando comandos de atualização e exclusão:
 
 1. Crie uma coluna "em atividade" para os médicos, indicando se ele ainda está atuando no hospital ou não. Crie script para atualizar ao menos dois médicos como inativos e os demais em atividade.
@@ -33,7 +35,8 @@ Crie um novo script com essas operações em SQL solicitadas.
 # 🇺🇸 
 With the database for the hospital system completely assembled, it is necessary to include data to carry out the necessary tests and validate its viability as a system. At this stage, it is also important to perform the separation of some initial scripts for the database, with the data that will be necessary for an initial population of the system
 
-- Part 1
+Part 1:
+
 Create populating scripts for the tables developed in Activity 2. Observe the following rules:
 
 1. Include at least ten physicians from at least seven specialties (consider the statement that "among the specialties there are pediatrics, general practice, gastroenterology and dermatology");
@@ -49,7 +52,8 @@ Create a script for basic population (the essentials for system deployment) and 
 
 The finished script must be structured in such a way that its total execution - without changes - is successful.
 
-- Part 2
+Part 2:
+
 Perform some changes to tables and data using update and delete commands:
 
 1. Create an "in activity" column for doctors, indicating whether he is still working in the hospital or not. Create a script to update at least two doctors as inactive and the others as active.

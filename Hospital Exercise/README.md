@@ -14,4 +14,4 @@ This exercise was proposed by the Brazilian teaching institution SENAC - where I
 
 A small local hospital is looking to develop a new system that better meets its needs. Currently, part of the operation still relies on old spreadsheets and files, but it is expected that this data will be transferred to the new system as soon as it is functional.
 
-From this, activities are elaborated for the creation of a complete database through MySQL.
+Therefore, activities are elaborated for the creation of a complete database through MySQL.

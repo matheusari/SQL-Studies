@@ -10,9 +10,9 @@ A internação, obviamente, é vinculada a um paciente - que pode se internar ma
 
 Realize os seguintes passos:
 
-• Faça a atualização do diagrama desenvolvido na Atividade 1 para que ele possa ser capaz de executar as novas instruções;
+1. Faça a atualização do diagrama desenvolvido na Atividade 1 para que ele possa ser capaz de executar as novas instruções;
 
-• Crie um script SQL para a geração do banco de dados e para instruções de montagem de cada uma das entidades/tabelas presentes no diagrama completo. Também crie tabelas para relacionamentos quando necessário. Aplique colunas e chaves primárias e estrangeiras.
+2. Crie um script SQL para a geração do banco de dados e para instruções de montagem de cada uma das entidades/tabelas presentes no diagrama completo. Também crie tabelas para relacionamentos quando necessário. Aplique colunas e chaves primárias e estrangeiras.
 
 Use ferramentas, como ERPlus, Lucidchart, draw.io (via web) e MySQL Workbench, ou mesmo um editor de imagens para o diagrama. Utilize o MySQL
 Workbench para montar os scripts SQL.
@@ -29,9 +29,9 @@ Admission is obviously linked to a patient - who can be admitted to the hospital
 
 Perform the following steps:
 
-• Update the diagram developed in Activity 1 so that it can be able to execute the new instructions;
+1. Update the diagram developed in Activity 1 so that it can be able to execute the new instructions;
 
-• Create an SQL script to generate the database and assemble instructions for each of the entities/tables present in the complete diagram. Also create tables for relationships when necessary. Apply primary and foreign columns and keys.
+2. Create an SQL script to generate the database and assemble instructions for each of the entities/tables present in the complete diagram. Also create tables for relationships when necessary. Apply primary and foreign columns and keys.
 
 Use tools such as ERPlus, Lucidchart, draw.io (via the web) and MySQL Workbench, or even an image editor for the diagram. use mysql
 Workbench to assemble the SQL scripts.

@@ -1,4 +1,4 @@
-# Objetivo / Objective 💭
+# A Ideia / The Idea 💭
 
 # 🇧🇷
 A partir dos conhecimentos obtidos no 1º semestre do curso de Desenvolvimento de Sistemas, nos foi solicitado a criação de um projeto utilizando o MySQL. O tema era amplo, então, resolvi apresentar a seguinte ideia:

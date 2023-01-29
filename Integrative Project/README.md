@@ -13,11 +13,11 @@ O projeto final pode ser visto acima. Espero que gostem! :)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # 🇺🇸
-Based on the knowledge obtained in the 1st semester of the Systems Development course, we were asked to create a project using MySQL. The theme was broad, so I decided to present the following idea:
+Based on the knowledge obtained in the 1st semester of the Systems Development course, we were asked to create a project using MySQL. The theme was broad, so I decided to present this idea:
 
 "Approximately 350 years BC, photography - the nomenclature in which we know it today - was already produced through the passage of light through a small hole. The first photographic camera in the world, in turn, was announced in 1839, at the French Academy of Science , by the Frenchman Louis Jacques Mandé Daguerre In light of these and countless other historic milestones, the art of photography has become increasingly present in human life.
 Nowadays, it is very common for us to take pictures, these, which are present in our identification documents, in a picture frame on the shelf at home or on our social networks. Therefore, the idea of the software is to help photo agency professionals to organize themselves better and, from there, to continue playing an important role in our lives: to immortalize moments.
 
 Aiming to fulfill its premise, the software will provide the professional with the possibility of organizing his future agenda and not losing his information from the past. For this, it will be possible to insert data such as: the name of the photographer and his fee, the name of the model and his fee, the places where the photographs were taken, the amounts spent, the dates on which the materials were produced, etc. All this information can be inserted, replaced or deleted, as it will be part of a database containing all the mentioned information".
 
-The final project can be seen above. Hope you like it!
+The final project can be seen above. I Hope you like it! :)

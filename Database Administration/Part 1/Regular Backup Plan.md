@@ -2,7 +2,7 @@
 # 🇺🇸 Regular backup plan, set up through a Linux server script to run every day:
 #!/bin/s
 
-FILE=backup.sql.`2022-10-03 +"%Y%m%d"`
+FILE=backup.sql.2022-10-03 +"%Y%m%d"'
 
 #DBSERVER=localhost
 

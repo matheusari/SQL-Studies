@@ -30,9 +30,11 @@ cd /backup/mysql
 
 chmod +x /backup/mysql/local-backup.sh
 
-- 🇧🇷 Acessando o arquivo Crontab para agendarmos a tarefa diária:
-- 🇺🇸 Accessing the Crontab file to schedule the daily task:
-  crontab -e
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Accessing the Crontab file (crontab -e) to schedule the daily task:
+  
+---------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # 🇧🇷 Inserimos dentro desse arquivo:
 # 🇺🇸 Insert into this file:

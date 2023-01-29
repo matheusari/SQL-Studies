@@ -1,5 +1,5 @@
--- 🇧🇷 Plano de backups regular, montado através de um script de servidor Linux para rodar todos os dias:
--- 🇺🇸 Regular backup plan, set up through a Linux server script to run every day:
+- 🇧🇷 Plano de backups regular, montado através de um script de servidor Linux para rodar todos os dias:
+- 🇺🇸 Regular backup plan, set up through a Linux server script to run every day:
 #!/bin/s
 
 FILE=backup.sql.`2022-10-03 +"%Y%m%d"`
@@ -30,11 +30,11 @@ cd /backup/mysql
 
 chmod +x /backup/mysql/local-backup.sh
 
--- 🇧🇷 Acessando o arquivo Crontab para agendarmos a tarefa diária:
--- 🇺🇸 Accessing the Crontab file to schedule the daily task:
+- 🇧🇷 Acessando o arquivo Crontab para agendarmos a tarefa diária:
+- 🇺🇸 Accessing the Crontab file to schedule the daily task:
 crontab -e
 
--- 🇧🇷 Inserimos dentro desse arquivo:
--- 🇺🇸 Insert into this file:
+- 🇧🇷 Inserimos dentro desse arquivo:
+- 🇺🇸 Insert into this file:
 0 1 * * * /backup/mysql/local-backup.sh 1>> /var/log/mysqlbackup.log 
 2>>/var/log/mysqlbackup-error.log

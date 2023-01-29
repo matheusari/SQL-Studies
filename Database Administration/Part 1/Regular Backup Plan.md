@@ -1,4 +1,5 @@
-# Plano de backups regular, montado através de um script de servidor Linux para rodar todos os dias: / Regular backup plan, set up through a Linux server script to run every day:
+# 🇧🇷 Plano de backups regular, montado através de um script de servidor Linux para rodar todos os dias:
+# 🇺🇸 Regular backup plan, set up through a Linux server script to run every day:
 #!/bin/s
 
 FILE=backup.sql.`2022-10-03 +"%Y%m%d"`

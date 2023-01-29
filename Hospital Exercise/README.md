@@ -1,4 +1,4 @@
-# Contexto / Context 💭
+# Objetivo / Objective 💭
 
 # 🇧🇷
 Esse exercício foi proposto pela instituição de ensino brasileira SENAC - na qual estou matriculado no curso de Desenvolvimento de Sistemas - visando avaliar o conhecimento dos alunos em banco de dados. O contexto inicial é o seguinte:

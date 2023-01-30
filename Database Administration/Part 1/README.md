@@ -1,6 +1,10 @@
-# Instruções / Instructions 👇🏼
+<div align="center">
+<h1> Instruções / Instructions 👇🏼 </h1>
+</div>
 
-# 🇧🇷 
+<div align="center">
+<h3> 🇧🇷 </h3>
+</div>
 Um dos clientes - uma loja de eletrônicos do sistema para vendas oferecido pela empresa de desenvolvimento de software onde você trabalha - relatou problemas graves com o banco de dados. Os problemas foram:
 
 - Um acesso indevido aconteceu no banco de dados. As hipóteses são de SQL injection ou de uso indevido de login e senha de funcionário.
@@ -19,9 +23,9 @@ A partir de um banco de dados auxiliar disponíbilizado em aula, crie:
 
 Para os itens 1, 2 e 3, grave em scripts .sql os comandos utilizados. Para o item 4, envie um relatório com evidências do plano de backup, informando ainda a periodicidade recomendada.
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-# 🇺🇸 
+<div align="center">
+<h3> 🇺🇸 </h3>
+</div>
 One of the customers - an electronics store on the system for sales offered by the software development company where you work - reported serious problems with the database. The problems were:
 
 - An improper access occurred in the database. Chances are SQL injection or misuse of employee login and password.

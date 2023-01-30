@@ -1,6 +1,11 @@
-# Instruções / Instructions 👇🏼
+<div align="center">
+<h1> Instruções / Instructions 👇🏼 </h1>
+</div>
 
-# 🇧🇷 
+<div align="center">
+<h3> 🇧🇷 </h3>
+</div>
+
 Ainda no contexto do sistema para lojas, após os ajustes de segurança, observaram-se outras necessidades, para as quais devem ser criadas sub-rotinas em banco de dados (stored functions, stored procedures e triggers).
 
 Realize as seguintes ações:
@@ -12,7 +17,9 @@ Realize as seguintes ações:
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# 🇺🇸 
+<div align="center">
+<h3> 🇺🇸 </h3>
+</div>
 Still in the context of the system for stores, after the security adjustments, other needs were observed, for which subroutines must be created in the database (stored functions, stored procedures and triggers).
 
 Perform the following actions:

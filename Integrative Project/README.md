@@ -1,6 +1,10 @@
-# A Ideia / The Idea 💭
+<div align="center">
+<h1> A Ideia / The Idea 💭 </h1>
+</div>
 
-# 🇧🇷
+<div align="center">
+<h3> 🇧🇷 </h3>
+</div>
 A partir dos conhecimentos obtidos no 1º semestre do curso de Desenvolvimento de Sistemas, nos foi solicitado a criação de um projeto utilizando o MySQL. O tema era amplo, então, resolvi apresentar a seguinte ideia:
 
 "Há aproximadamente 350 anos a.C, a fotografia - nomenclatura na qual conhecemos hoje - já era produzida através da passagem de luz por algum pequeno orifício. A primeira câmera fotográfica do mundo, por sua vez, foi anunciada em 1839, na Academia Francesa de Ciência, pelo francês Louis Jacques Mandé Daguerre. Diante destes e outros inúmeros marcos históricos, a arte da fotografia foi se tornando cada vez mais presente na vida do ser humano.
@@ -12,7 +16,9 @@ O projeto final pode ser visto acima. Espero que gostem! :)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# 🇺🇸
+<div align="center">
+<h3> 🇺🇸 </h3>
+</div>
 Based on the knowledge obtained in the 1st semester of the Systems Development course, we were asked to create a project using MySQL. The theme was broad, so I decided to present this idea:
 
 "Approximately 350 years BC, photography - the nomenclature in which we know it today - was already produced through the passage of light through a small hole. The first photographic camera in the world, in turn, was announced in 1839, at the French Academy of Science , by the Frenchman Louis Jacques Mandé Daguerre In light of these and countless other historic milestones, the art of photography has become increasingly present in human life.

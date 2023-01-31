@@ -10,6 +10,8 @@ Esse exercício foi proposto pela instituição de ensino brasileira SENAC - na 
 
 A partir disso, são elaboradas atividades para aumentar a segurança do banco de dados da empresa através do MySQL.
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
 <div align="center">
 <h3> 🇺🇸 </h3>
 </div>

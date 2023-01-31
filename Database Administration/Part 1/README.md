@@ -23,6 +23,8 @@ A partir de um banco de dados auxiliar disponíbilizado em aula, crie:
 
 Para os itens 1, 2 e 3, grave em scripts .sql os comandos utilizados. Para o item 4, envie um relatório com evidências do plano de backup, informando ainda a periodicidade recomendada.
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
 <div align="center">
 <h3> 🇺🇸 </h3>
 </div>

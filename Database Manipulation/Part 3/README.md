@@ -34,6 +34,7 @@ Realize algumas alterações nas tabelas e nos dados usando comandos de atualiza
 
 Crie um novo script com essas operações em SQL solicitadas.
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <div align="center">
 <h3> 🇺🇸 </h3>

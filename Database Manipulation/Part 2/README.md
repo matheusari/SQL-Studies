@@ -22,6 +22,7 @@ Realize os seguintes passos:
 Use ferramentas, como ERPlus, Lucidchart, draw.io (via web) e MySQL Workbench, ou mesmo um editor de imagens para o diagrama. Utilize o MySQL
 Workbench para montar os scripts SQL.
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <div align="center">
 <h3> 🇺🇸 </h3>

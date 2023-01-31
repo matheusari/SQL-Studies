@@ -1,6 +1,10 @@
-# Instruções / Instructions 👇🏼
+<div align="center">
+<h1> Instruções / Instructions 👇🏼 </h1>
+</div> 
 
-# 🇧🇷 
+<div align="center">
+<h3> 🇧🇷 </h3>
+</div>  
 Uma vez que o banco estiver bem estruturado, é possível realizar testes, simulando relatórios ou telas que o sistema possa necessitar. A tarefa consiste em criar consultas que levem aos resultados esperados.
 
 Crie um script e nele inclua consultas que retornem:
@@ -17,7 +21,9 @@ Crie um script e nele inclua consultas que retornem:
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# 🇺🇸 
+<div align="center">
+<h3> 🇺🇸 </h3>
+</div> 
 Once the database is well structured, it is possible to carry out tests, simulating reports or screens that the system may need. The task is to create queries that lead to the expected results.
 
 Create a script and include queries that return:

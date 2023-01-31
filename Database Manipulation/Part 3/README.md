@@ -1,6 +1,8 @@
 # Instruções / Instructions 👇🏼
 
-# 🇧🇷 
+<div align="center">
+<h3> 🇧🇷 </h3>
+</div>  
 Com o banco de dados para o sistema hospitalar completamente montado, é necessário incluir dados para realizar os devidos testes e validar sua viabilidade quanto a sistema. Nesta etapa, também é importante realizar a separação de alguns scripts iniciais para o banco, com os dados que serão necessários a um povoamento inicial do sistema
 
 Parte 1:
@@ -30,9 +32,10 @@ Realize algumas alterações nas tabelas e nos dados usando comandos de atualiza
 
 Crie um novo script com essas operações em SQL solicitadas.
 
----------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# 🇺🇸 
+<div align="center">
+<h3> 🇺🇸 </h3>
+</div> 
 With the database for the hospital system completely assembled, it is necessary to include data to carry out the necessary tests and validate its viability as a system. At this stage, it is also important to perform the separation of some initial scripts for the database, with the data that will be necessary for an initial population of the system
 
 Part 1:

@@ -1,6 +1,10 @@
-# Instruções / Instructions 👇🏼
+<div align="center">
+<h1> Instruções / Instructions 👇🏼 </h1>
+</div>
 
-# 🇧🇷 
+<div align="center">
+<h3> 🇧🇷 </h3>
+</div>
 Um pequeno hospital local busca desenvolver um novo sistema que atenda melhor as suas necessidades. Atualmente, parte da operação ainda se apoia em planilhas e arquivos antigos, mas espera-se que esses dados sejam transferidos para o novo sistema assim que ele estiver funcional. Neste momento, é necessário analisar com cuidado as necessidades desse cliente e sugerir uma estrutura de banco de dados adequada por meio de um Diagrama Entidade-Relacionamento.
 
 Analise a seguinte descrição e extraia dela os requisitos para o banco de dados:
@@ -17,7 +21,9 @@ A partir desses requisitos, desenhe um Diagrama ER para esse projeto de banco de
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# 🇺🇸 
+<div align="center">
+<h3> 🇺🇸 </h3>
+</div>
 A small local hospital is looking to develop a new system that better meets its needs. Currently, part of the operation still relies on old spreadsheets and files, but it is expected that this data will be transferred to the new system as soon as it is functional. At this point, it is necessary to carefully analyze the needs of this client and suggest a suitable database structure through an Entity-Relationship Diagram.
 
 Analyze the following description and extract the requirements for the database from it:

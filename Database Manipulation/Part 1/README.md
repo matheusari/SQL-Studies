@@ -19,7 +19,6 @@ Deseja-se ainda informatizar a receita do médico, de maneira que, no encerramen
 
 A partir desses requisitos, desenhe um Diagrama ER para esse projeto de banco de dados. Você pode utilizar ferramentas como ERPlus, Lucidchart, draw.io (via web) ou o MySQL Workbench.
 
----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <div align="center">
 <h3> 🇺🇸 </h3>

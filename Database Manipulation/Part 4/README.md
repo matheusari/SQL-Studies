@@ -18,7 +18,7 @@ Crie um script e nele inclua consultas que retornem:
 7. Nome do paciente, data da consulta e especialidade de todas as consultas em que os pacientes eram menores de 18 anos na data da consulta e cuja especialidade não seja "pediatria", ordenando por data de realização da consulta;
 8. Os nomes dos médicos e seus CRMs.
 
-
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <div align="center">
 <h3> 🇺🇸 </h3>

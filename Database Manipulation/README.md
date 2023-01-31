@@ -11,6 +11,8 @@ Um pequeno hospital local busca desenvolver um novo sistema que atenda melhor as
 
 A partir disso, são elaboradas atividades para a criação de um banco de dados completo através do MySQL.
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
 <div align="center">
 <h3> 🇺🇸 </h3>
 </div>

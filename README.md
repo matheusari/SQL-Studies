@@ -14,6 +14,7 @@
 
 O repositório "MySQL Studies" foi criado para mostrar meu primeiro contato com um dos mais famosos banco de dados do mundo: o MySQL. Esse sistema de gerenciamento de banco de dados, que utiliza a linguagem SQL como interface, é atualmente um dos sistemas de gerenciamento de bancos de dados mais baixados da Oracle Corporation, com mais de 10 milhões de instalações pelo mundo.
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <div align="center">
   <h2>  🇺🇸 

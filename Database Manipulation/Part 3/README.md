@@ -1,4 +1,6 @@
-# Instruções / Instructions 👇🏼
+<div align="center">
+<h1> Instruções / Instructions 👇🏼 </h1>
+</div> 
 
 <div align="center">
 <h3> 🇧🇷 </h3>

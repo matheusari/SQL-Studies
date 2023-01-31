@@ -1,6 +1,10 @@
-# Instruções / Instructions 👇🏼
+<div align="center">
+<h1> Instruções / Instructions 👇🏼 </h1>
+</div>
 
-# 🇧🇷 
+<div align="center">
+<h3> 🇧🇷 </h3>
+</div> 
 Após a primeira versão do projeto de banco de dados para o sistema hospitalar, notou-se a necessidade de expansão das funcionalidades, incluindo alguns requisitos essenciais a essa versão do software. As funcionalidades em questão são para o controle na intemação de pacientes. Será necessário expandir o Modelo ER desenvolvido e montar o banco de dados, criando as tabelas para o início dos testes.
 
 No hospital, as internações tem sido registradas por meio de formulários eletrônicos que gravam os dados em arquivos. Para cada internação, são anotadas a data de entrada, a data prevista de alta e a data efetiva de alta, além da descrição textual dos procedimentos a serem realizados. As internações precisam ser vinculadas a quartos, com a numeração e o tipo. Cada tipo de quarto tem sua descrição e o seu valor diário (a princípio, o hospital trabalha com apartamentos, quartos duplos e enfermaria).
@@ -20,7 +24,9 @@ Workbench para montar os scripts SQL.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# 🇺🇸 
+<div align="center">
+<h3> 🇺🇸 </h3>
+</div> 
 After the first version of the database project for the hospital system, it was noticed the need to expand the functionalities, including some essential requirements for this version of the software. The functionalities in question are for controlling the hospitalization of patients. It will be necessary to expand the developed ER Model and assemble the database, creating the tables to start the tests.
 
 At the hospital, admissions have been registered using electronic forms that record data in files. For each hospitalization, the date of entry, the expected date of discharge and the effective date of discharge are noted, in addition to the textual description of the procedures to be performed. Admissions need to be linked to rooms, with numbering and type. Each type of room has its description and its daily rate (in principle, the hospital works with apartments, double rooms and a ward).

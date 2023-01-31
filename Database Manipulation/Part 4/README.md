@@ -19,7 +19,6 @@ Crie um script e nele inclua consultas que retornem:
 8. Os nomes dos médicos e seus CRMs.
 
 
----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <div align="center">
 <h3> 🇺🇸 </h3>
